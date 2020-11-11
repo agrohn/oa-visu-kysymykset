@@ -1,0 +1,33 @@
+Oppimisanalytiikan suunnittelupohja                                             
+
+--------------------------------------------------------------------------------+
+Yhteystiedot:                                                                   |
+--------------------------------------------------------------------------------+
+Opinto:                                                                         |
+--------------------------------------------------------------------------------+
+
+
+
+
+--------------------------------------------------------------------------------+----------+----------+----------+
+Kenen kysymys? (opettaja / opiskelija / hallinto)                               |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Mitä haluat tietää, ja miksi?                                                   |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Mistä toiminnasta jäävä jälki kertoo sen, mitä haluat tietää?                   |          |          |          |
+Miksi jälki liittyy siihen, mitä haluat tietää?                                 |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Millaisessa muodossa jäljen data on?                                            |          |          |          |
+Tarvitseeko toimintaa ohjata tai järjestellä jollain tavalla, että jälkiä       |          |          |          |
+varmasti syntyy?                                                                |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Tarvitseeko syntyneiden jälkien dataa vertailla keskenään?                      |          |          |          |
+Miten varmistat, että jälkien data on vertailukelpoista                         |          |          |          |
+(asteikot, arvovälit, uniikit tunnisteet)?                                      |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Onko syntyneitä jälkiä yhdisteltävä tai muokattava, että ne kertovat            |          |          |          |
+sen, mitä haluat tietää?                                                        |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+
+Miten jälkiin liittyvä data on esitettävä, että se kertoo mitä haluat tietää?   |          |          |          |
+(vapaamuotoiset ajatukset, kuvaukset ja hahmotelmat visualisoinnista)           |          |          |          |
+--------------------------------------------------------------------------------+----------+----------+----------+

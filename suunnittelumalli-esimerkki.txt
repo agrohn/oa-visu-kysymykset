@@ -1,0 +1,46 @@
+Oppimisanalytiikan suunnittelupohja                                             
+
+--------------------------------------------------------------------------------+-------------------------+ 
+Yhteystiedot:                                                                   | oili.opettaja@amk.fi    |
+--------------------------------------------------------------------------------+-------------------------+
+Opinto:                                                                         | Paras opintojakso ikinä |
+--------------------------------------------------------------------------------+-------------------------+
+
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Kenen kysymys? (opettaja / opiskelija / hallinto)                               | Opettaja                                                            |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Mitä haluat tietää, ja miksi?                                                   | Onko osioille varattu työstöaikaa / opiskeluaikaa                    |
+                                                                                |   -liian vähän,                                                     |
+                                                                                |   -sopivasti, vai                                                   |
+                                                                                |   -liian paljon?                                                    |
+                                                                                | Tetoa ei saa koostettuna mistään tällä hetkellä,                    |
+                                                                                | tarvitsen tätä suunnittelun työkaluksi että voin                    |
+                                                                                | tasapainottaa opiskelua.                                            |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Mistä toiminnasta jäävä jälki kertoo sen, mitä haluat tietää?                   | Tehtävien palautukset ja materiaalien tarkastelu.                   |
+Miksi jälki liittyy siihen, mitä haluat tietää?                                 | Näiden avulla nähdään miten viikossa aika                           |
+                                                                                | käytetään opiskeluun (hyvissä ajoin vai vasta                       |
+                                                                                | viimeisenä iltana), ja mille päiville materiaalien                  |
+                                                                                | tarkastelu ja tehtävien palautukset sijoittuvat.                    |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Millaisessa muodossa jäljen data on?                                            | -aktiivisuusaikaleimat;                                             |
+                                                                                |  -suoritettavan aktivititeetin nimi                                 |
+                                                                                | (osa tehtäviä, osa tehtävään liittyviä                              |
+                                                                                |  materiaaleja)                                                      |
+                                                                                |                                                                     |
+Tarvitseeko toimintaa ohjata tai järjestellä jollain tavalla, että jälkiä       |  videomateriaalin tarkastelu on siirrettävä                         |
+varmasti syntyy?                                                                | H5P-aktiviteetin taakse, että opiskelusta jää                       |
+                                                                                | tarkempi jälki quiz-työkalun avulla                                 |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Tarvitseeko syntyneiden jälkien dataa vertailla keskenään?                      | - Kyllä, aktiivisuutta pitää voida vertailla päiväkohtaisesti       |
+Miten varmistat, että jälkien data on vertailukelpoista                         | - materiaalit eroteltava datasta tehtäväkohtaisesti                 |
+(asteikot, arvovälit, uniikit tunnisteet)?                                      |                                                                     |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Onko syntyneitä jälkiä yhdisteltävä tai muokattava, että ne kertovat            | - aktiivisuudesta laskettava tuntiarviot päivittäin                 |
+sen, mitä haluat tietää?                                                        | - aktiivisuusaikaleimat muunnettava päivän tasolle (kellonajat pois)|
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
+Miten jälkiin liittyvä data on esitettävä, että se kertoo mitä haluat tietää?   | Palkkikaaviona, josta nähtävissä vierekkäisinä palkkeina päivittäin |
+(vapaamuotoiset ajatukset, kuvaukset ja hahmotelmat visualisoinnista)           | - Tehtäviin liittyvien materiaalien tarkastelukertojen lkm          |
+                                                                                | - Tehtävien tarkastelukerrat                                        |
+                                                                                | - Tehtäväpalautusten lukumäärä                                      |
+--------------------------------------------------------------------------------+---------------------------------------------------------------------+
