@@ -2,7 +2,7 @@
 
 Sisältää tarkentavia kysymyksiä räätälöidyn oppimisanalytiikan visualisoinnin suunnitteluun.
 Malli pyrkii johdonmukaistamaan visualisoinnin kehittäjän ja sen tarvitsijan välistä dialogia suunnittelutyön aikana.
-Kehitetty [Karelia-ammattikorkeakoulussa](https://www.karelia.fi) [Avain Parempaan Oppimiseen AMKeissa (APOA)](https://apoa.tamk.fi)  -hankkeen aikan tehtävien oppimisanalytiikkapilottien tueksi.
+Suunnittelumalli on kehitetty [Karelia-ammattikorkeakoulussa](https://www.karelia.fi) [Avain Parempaan Oppimiseen AMKeissa (APOA)](https://apoa.tamk.fi)  -hankkeen aikana tehtävien oppimisanalytiikkapilottien tueksi.
 
 # Kysymykset ja esimerkki
 
